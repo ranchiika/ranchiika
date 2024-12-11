@@ -1,16 +1,34 @@
-## Hi there 👋
+# About Me 👋
 
-<!--
-**ranchiika/ranchiika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I’m **Chika Maharani** 💫  
+A dedicated **Software Engineering student** at **IDN Boarding School** with a strong passion for becoming an **Apple Developer**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 My Passion
+I specialize in blending **technology** with **creative design**, creating solutions that are both **functional** and **beautiful**. My main interests include:  
+- **Mobile Development**: Building apps with seamless functionality and exceptional user experiences.  
+- **Embedded Systems**: Exploring the integration of software and hardware.  
+- **Leadership**: Thriving in team settings as a leader, fostering collaboration, and achieving great results together.  
+
+---
+
+## 🛠️ Skills & Technologies
+- **Programming Languages**: Dart, Kotlin, C++, Python, Swift  
+- **Frameworks**: Flutter  
+- **Tools**: Xcode, Visual Studio Code, Android Studio, Git, Figma  
+---
+
+## 🚀 Goals
+- 🌱 Currently learning advanced **mobile app development** and **embedded systems**.  
+- 💡 Aspiring to create innovative apps for the **Apple ecosystem**.  
+- 🌍 Excited to lead teams and contribute to impactful projects.  
+
+---
+
+## 📫 Let’s Connect!
+- **GitHub**: github.com/ranchiika
+- **LinkedIn**: linkedin.com/in/chikamaharani
+- **Email**: chiikamaharani@gmail.com
+
+Let’s create something remarkable together! 🌟  
