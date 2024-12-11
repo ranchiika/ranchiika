@@ -3,6 +3,14 @@
 Hello! I’m **Chika Maharani** 💫  
 A dedicated **Software Engineering student** at **IDN Boarding School** with a strong passion for becoming an **Apple Developer**.  
 
+## 📊 GitHub Stats
+![Chika's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChikaMaharani&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ChikaMaharani&theme=radical&hide_border=true)](https://git.io/streak-stats)
+![Chika's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ChikaMaharani&theme=github)
+
+## 🌟 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChikaMaharani&layout=compact&theme=radical)
+
 ---
 
 ## 🌟 My Passion
